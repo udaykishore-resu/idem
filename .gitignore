@@ -1,0 +1,14 @@
+# Binaries and test output
+/bin/
+*.test
+*.out
+coverage.*
+
+# Workspace files are a local convenience, not part of the modules
+go.work
+go.work.sum
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
